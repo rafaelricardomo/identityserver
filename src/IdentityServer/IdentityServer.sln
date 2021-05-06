@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServer", "IdentityServer\IdentityServer.csproj", "{601B681A-BC66-4B13-ADAE-61CCE7FEA099}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api", "Api\Api.csproj", "{FB856F91-4196-447E-8008-21144855781B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{D2F0ECD9-576A-4C35-8AB7-C85F6434B584}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{601B681A-BC66-4B13-ADAE-61CCE7FEA099}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{601B681A-BC66-4B13-ADAE-61CCE7FEA099}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{601B681A-BC66-4B13-ADAE-61CCE7FEA099}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{601B681A-BC66-4B13-ADAE-61CCE7FEA099}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB856F91-4196-447E-8008-21144855781B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB856F91-4196-447E-8008-21144855781B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB856F91-4196-447E-8008-21144855781B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB856F91-4196-447E-8008-21144855781B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2F0ECD9-576A-4C35-8AB7-C85F6434B584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2F0ECD9-576A-4C35-8AB7-C85F6434B584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2F0ECD9-576A-4C35-8AB7-C85F6434B584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2F0ECD9-576A-4C35-8AB7-C85F6434B584}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0E45521-D8CD-45EB-9C7C-1BC991BB32C4}
+	EndGlobalSection
+EndGlobal
